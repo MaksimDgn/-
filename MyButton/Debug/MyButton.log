@@ -1,0 +1,10 @@
+﻿Сборка начата 24.05.2017 14:30:51.
+     1>Проект "C:\Users\Max\Documents\visual studio 2013\Projects\msgMyButton\MyButton\MyButton.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Max\Documents\visual studio 2013\Projects\msgMyButton\Debug\MyButton.exe" /INCREMENTAL /NOLOGO /LIBPATH:c:\Windows\System32\user32.dll kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Max\Documents\visual studio 2013\Projects\msgMyButton\Debug\MyButton.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Max\Documents\visual studio 2013\Projects\msgMyButton\Debug\MyButton.lib" /MACHINE:X86 Debug\Source.obj
+         MyButton.vcxproj -> C:\Users\Max\Documents\visual studio 2013\Projects\msgMyButton\Debug\MyButton.exe
+     1>Сборка проекта "C:\Users\Max\Documents\visual studio 2013\Projects\msgMyButton\MyButton\MyButton.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.21
